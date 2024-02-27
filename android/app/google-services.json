@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "367139089445",
+    "project_id": "ichat-f7b0b",
+    "storage_bucket": "ichat-f7b0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367139089445:android:e96b4bdae5856fd73f63cc",
+        "android_client_info": {
+          "package_name": "com.zee.devs.i_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367139089445-ls0th7icrrisj6f8epqrbf8a7uj4bfpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zee.devs.i_chat_app",
+            "certificate_hash": "0bb3039ec22d01af886752f3cfdf874013c13a3c"
+          }
+        },
+        {
+          "client_id": "367139089445-8oid254odg16ucq3nad6tshph5qu3v6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2iO-w5qU3stpgVV2DocHFKtpMsCIddqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367139089445-8oid254odg16ucq3nad6tshph5qu3v6n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "367139089445-70mkiviuahkv1t2ovevtu4h74493p69k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zee.devs.iChatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
